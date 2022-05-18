@@ -30,14 +30,21 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
   - text: News
     url: /news/
   - text: Research
     url: /research/
-  - text: Download
-    url: https://github.com/xchen006
+  - text: Publication
+    url: /publication/
+  - text: CV
+    url: /CV/
+  - text: Field work
+    url: /field work/
+  - text: Contact
+    url: /contact/
+  - text: Links
+    url: /links/
+
 
 # The shortname for your Disqus site to enable comments.
 disqus: livefordreams
