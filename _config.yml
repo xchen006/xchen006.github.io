@@ -37,7 +37,7 @@ navigation:
   - text: Research
     url: /research/
   - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: https://github.com/xchen006
 
 # The shortname for your Disqus site to enable comments.
 disqus: livefordreams
