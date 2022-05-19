@@ -1,8 +1,4 @@
-# Scriptor
-
-Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
-
-[Live Demo](https://scriptor-jekyll.netlify.com/) &nbsp; | &nbsp; [Download](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/archive/master.zip) &nbsp;
+# Trace Metal Isotope Geochemistry Lab
 
 ![Scriptor-Jekyll-Theme](images/Periodic table.jpb)
 
